@@ -6,7 +6,7 @@ class RestclientcppConan(ConanFile):
     version = "0.5.1"
     license = "MIT"
     author = "Mauro Delazeri <mauro@zinnion.com>"
-    url = "https://github.com/offa/conan-restclient-cpp"
+    url = "https://github.com/zinnion/conan-restclient-cpp"
     description = "This is a simple REST client for C++. It wraps libcurl for HTTP requests."
     homepage = "https://github.com/mrtazz/restclient-cpp"
     topics = ("restclient", "libcurl", "rest-client", "http-client", "http")
